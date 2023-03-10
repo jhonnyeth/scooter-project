@@ -10,7 +10,9 @@ class ScooterApp {
       "Empire State": []
     };
     this.registeredUsers = {};
+  }
 
+  // missing registerUser, loginUser, logoutUser, createScooter, dockScooter, rentScooter, printState methods
 }
 
 module.exports = ScooterApp
